@@ -1,0 +1,6 @@
+{
+  "name": "Hopin — Patio Cafe",
+  "description": "An interactive 3D bungalow gallery and culinary ordering experience for Hopin - Patio Cafe in New Palasia, Indore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
